@@ -183,7 +183,7 @@ much easier to set up than building from source.
             <td>
                 <a href="https://github.com/msys2/MINGW-packages/blob/master/mingw-w64-gcc/PKGBUILD" class="urlextern"
                     title="https://github.com/msys2/MINGW-packages/blob/master/mingw-w64-gcc/PKGBUILD"
-                    rel="nofollow">15.2.0</a>
+                    rel="nofollow">16.1.0</a>
                   / <a href="https://github.com/msys2/MINGW-packages/blob/master/mingw-w64-llvm/PKGBUILD" class="urlextern"
                     title="https://github.com/msys2/MINGW-packages/blob/master/mingw-w64-llvm/PKGBUILD"
                     rel="nofollow">22.1.4</a>
